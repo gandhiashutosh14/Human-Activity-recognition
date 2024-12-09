@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="https://github.com/open-mmlab/mmaction2/raw/main/resources/mmaction2_logo.png" width="600"/>
   <div>&nbsp;</div>
@@ -385,3 +386,6 @@ We wish that the toolbox and benchmark could serve the growing research communit
 - [MMGeneration](https://github.com/open-mmlab/mmgeneration): OpenMMLab image and video generative models toolbox.
 - [MMDeploy](https://github.com/open-mmlab/mmdeploy): OpenMMLab model deployment framework.
 - [Playground](https://github.com/open-mmlab/playground): A central hub for gathering and showcasing amazing projects built upon OpenMMLab.
+=======
+# Human-Activity-recognition
+>>>>>>> 9771b0bbd627917746040fe31c27392f0190cca5
